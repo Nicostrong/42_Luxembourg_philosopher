@@ -74,7 +74,7 @@ SRC				=	main_bonus.c \
 
 OBJ				=	$(SRC:.c=.o)
 
-NAME			=	philo
+NAME			=	philo_bonus
 
 ################################################################################
 #	Tester part
